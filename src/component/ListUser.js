@@ -11,7 +11,7 @@ function ListUser() {
                     if(response.status === 200){
                         setUser(response.data)
                     }else{
-                        alert("Somethings went Wrong....")
+                        alert("Somethings went Wrong.....")
                     }
                 }
             ).catch(
