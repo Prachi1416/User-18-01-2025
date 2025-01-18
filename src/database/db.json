@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "4e7b",
+      "name": "Prachi Dongre",
+      "mail": "p@d.co",
+      "phono": "9234567895",
+      "password": "Abhi"
+    },
+    {
+      "id": "46b1",
+      "name": "Pradnesh Meshram",
+      "mail": "p@m.co",
+      "phono": "7894561235",
+      "password": "Pradnesh"
+    },
+    {
+      "id": "436e",
+      "name": "Abhi Meshram",
+      "mail": "a@m.in",
+      "phono": "4567891235",
+      "password": "Abhi"
+    },
+    {
+      "id": "35ce",
+      "name": "Tejas Dongre",
+      "mail": "t@d.co",
+      "phono": "4569871235",
+      "password": "Tejas@123"
+    }
+  ]
+}

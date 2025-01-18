@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+.home-main{
+  background-image: url("./img/user.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.CreateUser{
+  background-image: url("./img/user.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
